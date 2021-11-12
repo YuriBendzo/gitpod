@@ -1,2 +1,0 @@
-# gitpod
-platform for developers
